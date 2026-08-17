@@ -1,0 +1,28 @@
+# Python önbellek dosyaları (Projeyi çalıştırırken otomatik oluşur)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite yerel veritabanı (Boyut yapmaması, local kalması ve her ortamda sıfırdan oluşturulabilmesi için)
+*.db
+*.sqlite
+*.sqlite3
+rag_knowledge.db
+test_*.db
+
+# Sanal ortamlar (Kütüphanelerin bilgisayarınızda tutulduğu ortam)
+venv/
+.venv/
+env/
+
+# Çevre değişkenleri / Gizli anahtarlar
+.env
+.env.*
+
+# VS Code ve IDE klasörleri
+.vscode/
+.idea/
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db

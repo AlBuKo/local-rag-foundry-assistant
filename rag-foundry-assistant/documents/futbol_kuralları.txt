@@ -1,0 +1,27 @@
+# Futbol kuralları
+
+Futbol kuralları, futbolun oynanması için hazırlanan kurallardır. Uluslararası Futbol Birliği Kurulu (kısaca IFAB) tarafından yazılmış olup, sporun en büyük yönetim kurumu Uluslararası Futbol Federasyonları Birliği (kısaca FIFA) tarafından yayımlanmaktadır. 17 ana kuraldan oluşmaktadır.
+
+Kurallar
+Kuralları oluşturan 17 ana madde aşağıdaki gibidir:
+
+1. kural: Oyun alanı
+2. kural: Top
+3. kural: Oyuncuların sayısı
+4. kural: Oyuncuların giysi ve gereçleri
+5. kural: Hakem
+6. kural: Yardımcı hakemler
+7. kural: Maçın süresi
+8. kural: Oyunun başlaması ve tekrar başlaması
+9. kural: Topun oyunda ve oyun dışı olması
+10. kural: Gol yapma yöntemi
+11. kural: Ofsayt
+12. kural: Fauller ve fena hareketler
+13. kural: Serbest vuruşlar (direkt ve endirekt)
+14. kural: Penaltı vuruşu
+15. kural: Taç atışı
+16. kural: Kale vuruşu
+17. kural: Köşe vuruşu
+
+Dış bağlantılar
+"Futbol Oyun Kuralları: 2012/2013". FIFA. Zürih: Türkiye Futbol Federasyonu. 19 Haziran 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 12 Ekim 2020.
