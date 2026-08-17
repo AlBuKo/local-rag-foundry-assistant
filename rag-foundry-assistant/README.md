@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/700123d7-f2cc-404b-bc37-e19480215a65
+
 # 🤖 Local RAG Knowledge Assistant (Microsoft Foundry Local & SQLite)
 
 A modular, high-performance, and **100% offline** Local Retrieval-Augmented Generation (RAG) Knowledge Assistant built with Python, Microsoft Foundry Local (`foundry-local-sdk`), SQLite3, NumPy, and Streamlit.
